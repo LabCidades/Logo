@@ -3,7 +3,7 @@
 [![CC BY-SA
 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-Logos do LabCidades em versão `light` e `dark` com/sem fundo transparente.
+Logos do LabCidades em versão `light` e `dark` com/sem fundo transparente em formato PNG ou SVG.
 
 <img src="light/png/logo2.png" width=100> <img src="dark/png/logo3.png" width=100> <img src="fundo_transparente/png/logo1.png" width=100> <img src="fundo_transparente/png/logo2.png" width=100>
 
